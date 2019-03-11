@@ -1,7 +1,2 @@
-test
-<<<<<<< Upstream, based on origin/master
 test1
 test3
-=======
-test2
->>>>>>> 003278b test
